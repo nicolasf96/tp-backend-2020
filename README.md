@@ -1,5 +1,13 @@
 # TP Backend 2020
 
+## Integrantes del grupo
+
+| Miembros| Legajo|E-mail|
+| ----- | ---- | ---- |
+| Fierro Nicolás | 43908 | nicofierro1@gmail.com |
+| Monja Gonzalo  | 43917 | gonzalormonja@gmail.com |
+
+
 ## 1 - Enunciado
 
 ### 1.1 - Desarrollo
@@ -118,3 +126,22 @@ Luego de la defensa el resultado puede ser:
 * Desarrollo a revisión - Defensa a repetir: se pactará una nueva fecha de entrega y defensa con el docente.
 
 [checklist]: ./checklist/README.md
+
+## 4 - Modelo de negocio
+### 4.1 - Descripcion del sistema
+
+
+### 4.2 - Funcionalidad
+#### ABMC simple:
+
+
+#### Listado Simple:
+
+
+#### Listado Complejo:
+
+
+#### Detalle:
+
+
+### 4.4 - Modelo
