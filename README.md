@@ -128,20 +128,32 @@ Luego de la defensa el resultado puede ser:
 [checklist]: ./checklist/README.md
 
 ## 4 - Modelo de negocio
-### 4.1 - Descripcion del sistema
 
+
+### 4.1 - Enunciado general del TP
+
+ Nuestro grupo va a desarrollar un sistema de gestión de ventas/pedidos de un Bar o Restaurante. La idea es crear un App web para que un usuario pueda registrarse, configurar su comercio (Se trata de un bar, restaurante, o comercio de venta de comidas/bebidas) y poder gestionar los pedidos, cuentas y demás de sus mesas. Además podrá agregar productos (en este caso platos, guarniciones, o bebidas) y categorías.
 
 ### 4.2 - Funcionalidad
 #### ABMC simple:
-
+ - Categorías (id, titulo, descripcion)
+ - Mozos (id, nombre, apellido, dirección, fechaNacimiento, avatar)
+ 
+#### ABMC dependiente:
+ - Productos (id, titulo, descripcion, precio, tamaño, idCategoria)
 
 #### Listado Simple:
-
+ - Listado de Mozos (Simple)
 
 #### Listado Complejo:
+ - Listado de Productos filtrado por categoría (Complejo)
 
 
 #### Detalle:
+ - Detalle de producto con todos sus atributos
+ - Detalle de las mesas que atendió un Mozo específico en un determinado Turno
 
 
-### 4.4 - Modelo
+### 4.4 - Diagrama de Entidades
+
+     https://drive.google.com/open?id=10UFI9e7Gg2e542wmo4pPiUOKcHkoT7N3
